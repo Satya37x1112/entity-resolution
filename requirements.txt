@@ -1,0 +1,12 @@
+# Python 3.10 / 3.11 compatible
+# PyTorch with CUDA 12.4 should be installed first:
+# pip install torch==2.6.0 --index-url https://download.pytorch.org/whl/cu124
+torch==2.6.0
+polars==1.44.2
+pandas==2.3.3
+numpy==2.2.6
+scipy==1.15.3
+scikit-learn==1.7.2
+lightgbm==4.7.0
+rapidfuzz==3.14.5
+pyarrow==25.0.1
